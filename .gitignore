@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data folders (raw images, rocessed results)
+1_data_collection/assets/
+2_preprocessing/processed/
+3_ocr_extraction/ocr_results/
